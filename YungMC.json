@@ -264,6 +264,14 @@
         "magnet:?xt=urn:btih:5213564d3e82d0db26b819949d9346891ab38558&dn=DOOM.The.Dark.Ages.Premium.Edition-InsaneRamZes&xl=90348739350&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann"
       ],
       "uploadDate": "2026-03-15T05:00:43.000Z"
+    },
+    {
+      "title": "ASTRONEER v 1.36.46.0",
+      "fileSize": "2.87 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:1438ac764bb885dc45cb6b5fd2d89b512da4138d&dn=ASTRONEER&xl=3273111784&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+      ],
+      "uploadDate": "2026-01-22T05:00:43.000Z"
     }
   ]
 }
