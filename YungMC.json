@@ -544,6 +544,22 @@
         "magnet:?xt=urn:btih:b4c45cdc9c7645ba913079524e6b66da07361af6&dn=Arma%20Reforger&xl=27232253715&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3Dfacfd08083faeb49ac3ff9468b879b51&tr=http%3A%2F%2Fretracker.local%2Fannounce"
       ],
       "uploadDate": "2026-02-02T05:00:43.000Z"
+    },
+    {
+      "title": "Teardown Build 12032026 + Online",
+      "fileSize": "4.2 GB",
+      "uris": [
+        ""
+      ],
+      "uploadDate": "2026-03-16T05:00:43.000Z"
+    },
+    {
+      "title": "Teardown Build 22376570 | Ultimate Edition",
+      "fileSize": "6.55 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:07ce99fdfd8eeb5b6fa2e77cba6b9bd3db2c509a&dn=Teardown.The.Greenwash.Gambit.2.0.0.7z&xl=4032774506&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3Dfacfd08083faeb49ac3ff9468b879b51&tr=http%3A%2F%2Fretracker.local%2Fannounce"
+      ],
+      "uploadDate": "2026-05-02T05:00:43.000Z"
     }
   ]
 }
