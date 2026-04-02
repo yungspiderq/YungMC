@@ -546,6 +546,14 @@
       "uploadDate": "2026-02-02T05:00:43.000Z"
     },
     {
+      "title": "Teardown Build 12032027 + Online",
+      "fileSize": "4.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:3fe3b6e0092cbb59bf1af56629b51bc1a809d325&dn=Teardown&xl=4076098064&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+      ],
+      "uploadDate": "2026-03-16T05:00:43.000Z"
+    },
+    {
       "title": "Teardown Build 22376570 | Ultimate Edition",
       "fileSize": "6.55 GB",
       "uris": [
