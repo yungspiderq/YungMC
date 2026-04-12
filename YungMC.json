@@ -608,6 +608,14 @@
         "magnet:?xt=urn:btih:12d17ff1a0c6bb0ea3d3bbf3e198dfd9869d2548&dn=Megabonk&xl=238046232&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
       ],
       "uploadDate": "2026-02-05T05:00:43.000Z"
+    },
+    {
+      "title": "Megabonk v 1.0.69",
+      "fileSize": "175 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:19e884f3f19636bd218f80df03450937f39b4e86&dn=Megabonk%20v1.0.69a.rar&xl=184218906&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2026-05-02T05:00:43.000Z"
     }
   ]
 }
