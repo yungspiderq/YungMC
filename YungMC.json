@@ -720,6 +720,22 @@
         "magnet:?xt=urn:btih:e4d6f546968539b4d6927339274aee3949ae5708&dn=Kerbal%20Space%20Program.7z&xl=2252377045&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3Dfacfd08083faeb49ac3ff9468b879b51&tr=http%3A%2F%2Fretracker.local%2Fannounce"
       ],
       "uploadDate": "2026-05-02T05:00:43.000Z"
+    },
+    {
+      "title": "Subnautica 2 v 0.10.0-112084 Build 23057982",
+      "fileSize": "14.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fc330bd0fc90fc1805da22ea10178b711edafa8e&dn=Subnautica.2-InsaneRamZes&xl=15673872446&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-05-12T05:00:43.000Z"
+    },
+    {
+      "title": "Stellar Blade v 1.4.1 Build 19963153 + DLC - Complete Edition",
+      "fileSize": " GB",
+      "uris": [
+        "magnet:?xt=urn:btih:af559af0d27fc9f77586ecbcaebac35cda297fda&dn=Stellar.Blade.Complete.Edition-InsaneRamZes&xl=67864779260&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
+      ],
+      "uploadDate": "2026-05-08T05:00:43.000Z"
     }
   ]
 }
